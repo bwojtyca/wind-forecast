@@ -1,0 +1,11 @@
+<nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
+  <div class="container">
+    <span class="navbar-brand">{{title}}</span>
+  </div>
+</nav>
+<div class="container">
+  <div class="components" *ngIf="forecast">
+    <app-line [data]="forecast"></app-line>
+    <app-table [data]="forecast"></app-table>
+  </div>
+</div>

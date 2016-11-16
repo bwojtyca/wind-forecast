@@ -1,0 +1,35 @@
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>
+        Date
+      </th>
+      <th>
+        Hour
+      </th>
+      <th>
+        Wind Power
+      </th>
+      <th colspan="2">
+        Wind Power Utilization
+      </th>
+      <th>
+        Wind Power Capacity
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let entry of forecast">
+      <td>{{entry.date | date:"y MMM d"}}</td>
+      <td>{{entry.date | date:"j"}}</td>
+      <td>{{entry.power.mw | number:'1.0-2'}} MW</td>
+      <td class="chart-cell">
+        <nvd3 [options]="options" [data]="entry.data.utilization" *ngIf="entry.data.utilization"></nvd3>
+      </td>
+      <td>
+        {{entry.power.utilization | number:'1.0-2'}}%
+      </td>
+      <td>{{entry.power.capacity | number:'1.0-2'}} MW</td>
+    </tr>
+  </tbody>
+</table>

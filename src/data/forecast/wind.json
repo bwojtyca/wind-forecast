@@ -1,0 +1,902 @@
+[
+  {
+    "_id": "aa7shrqgvq0qsrkmiy66r",
+    "date": "2016-11-16T11:00:00.551Z",
+    "power": {
+      "mw": 7926.751456047034,
+      "utilization": 20.85959778436345,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "hruypj6g4dech257b9",
+    "date": "2016-11-16T12:00:00.551Z",
+    "power": {
+      "mw": 12948.236535254035,
+      "utilization": 34.07385833147994,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "od1cmn7nieqt3p48zd7vi",
+    "date": "2016-11-16T13:00:00.551Z",
+    "power": {
+      "mw": 6331.037869385885,
+      "utilization": 16.660406756189747,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "on54901ka5rp1zto6r",
+    "date": "2016-11-16T14:00:00.551Z",
+    "power": {
+      "mw": 6268.687631514735,
+      "utilization": 16.496329341757964,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "uy2i08rc7xiwrdhiwwmi",
+    "date": "2016-11-16T15:00:00.551Z",
+    "power": {
+      "mw": 7885.44077155956,
+      "utilization": 20.75088688717138,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "t8jijcwduujzjze6rbe29",
+    "date": "2016-11-16T16:00:00.551Z",
+    "power": {
+      "mw": 7530.053447338569,
+      "utilization": 19.81566939208318,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "vgmdvsh47lm4g7e6d2t9",
+    "date": "2016-11-16T17:00:00.551Z",
+    "power": {
+      "mw": 7568.644696472681,
+      "utilization": 19.917223974612654,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "nd9petw72v73g26xyldi",
+    "date": "2016-11-16T18:00:00.551Z",
+    "power": {
+      "mw": 7403.10039770856,
+      "utilization": 19.48158681519601,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "x95wcq4b99euux0nqaor",
+    "date": "2016-11-16T19:00:00.551Z",
+    "power": {
+      "mw": 7463.970966405931,
+      "utilization": 19.641770414615415,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "ps0f0c3cq7l9682p4x6r",
+    "date": "2016-11-16T20:00:00.551Z",
+    "power": {
+      "mw": 9888.71801345207,
+      "utilization": 26.022599738035208,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "k979drezrl4fdjd4e7b9",
+    "date": "2016-11-16T21:00:00.551Z",
+    "power": {
+      "mw": 10302.0230248873,
+      "utilization": 27.11023019404297,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "p3i51stw1stbw3fcx47vi",
+    "date": "2016-11-16T22:00:00.551Z",
+    "power": {
+      "mw": 11603.889304858594,
+      "utilization": 30.536149010825106,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "ukwcnsujl5f8ldw8kt9",
+    "date": "2016-11-16T23:00:00.551Z",
+    "power": {
+      "mw": 9165.927197322015,
+      "utilization": 24.120543670009646,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "g10f92vlbk3b7onoecdi",
+    "date": "2016-11-17T00:00:00.551Z",
+    "power": {
+      "mw": 6646.059324977342,
+      "utilization": 17.489399678891967,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "yf3f51bfhl3xu0x80k9",
+    "date": "2016-11-17T01:00:00.551Z",
+    "power": {
+      "mw": 8337.30131904,
+      "utilization": 21.939977945132302,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "0d4mbx4msg8eg8i1kyb9",
+    "date": "2016-11-17T02:00:00.551Z",
+    "power": {
+      "mw": 5316.313636579966,
+      "utilization": 13.990114963171449,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "5oxe28dv7jjftfqrggb9",
+    "date": "2016-11-17T03:00:00.551Z",
+    "power": {
+      "mw": 7346.980712864521,
+      "utilization": 19.333905377204303,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "8q4qafim26yjm88bbj4i",
+    "date": "2016-11-17T04:00:00.551Z",
+    "power": {
+      "mw": 7344.043550116194,
+      "utilization": 19.326176103251782,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "k6k7cjqmyu8wioif11yvi",
+    "date": "2016-11-17T05:00:00.551Z",
+    "power": {
+      "mw": 7543.37377562017,
+      "utilization": 19.850722426336944,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "yudk455mrodgxf8estt9",
+    "date": "2016-11-17T06:00:00.551Z",
+    "power": {
+      "mw": 8470.379971389455,
+      "utilization": 22.29018031707334,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "z845u0o1excn27kqpvi",
+    "date": "2016-11-17T07:00:00.551Z",
+    "power": {
+      "mw": 11905.562444892184,
+      "utilization": 31.330015249515622,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "h8a11vyqn3mg09vygb9",
+    "date": "2016-11-17T08:00:00.551Z",
+    "power": {
+      "mw": 11377.010244363377,
+      "utilization": 29.939106707446946,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "nha4hkngsc93drcdnp14i",
+    "date": "2016-11-17T09:00:00.551Z",
+    "power": {
+      "mw": 3904.6638742511323,
+      "utilization": 10.275296046765522,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "vek6urecya7voxvquxr",
+    "date": "2016-11-17T10:00:00.551Z",
+    "power": {
+      "mw": 7410.6331335795385,
+      "utilization": 19.501409543504792,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "f6ae0oukpz6mmv7wx9a4i",
+    "date": "2016-11-17T11:00:00.551Z",
+    "power": {
+      "mw": 7359.299322898119,
+      "utilization": 19.366322345490502,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "0mh0o5gezpjy2wu7n9udi",
+    "date": "2016-11-17T12:00:00.551Z",
+    "power": {
+      "mw": 5061.83933911637,
+      "utilization": 13.320454570640834,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "ir6qsj6f4vj5s3gzaor",
+    "date": "2016-11-17T13:00:00.551Z",
+    "power": {
+      "mw": 6001.573135033611,
+      "utilization": 15.793405705276538,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "cg9lf8g4nefuf2lhxgvi",
+    "date": "2016-11-17T14:00:00.551Z",
+    "power": {
+      "mw": 7737.621984758457,
+      "utilization": 20.361895198111753,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "ue1p7g1d2j9ztmrhpvi",
+    "date": "2016-11-17T15:00:00.551Z",
+    "power": {
+      "mw": 9138.36864405673,
+      "utilization": 24.04802211564777,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "zsnmy21jutz7sbk5ipb9",
+    "date": "2016-11-17T16:00:00.551Z",
+    "power": {
+      "mw": 10278.486779858535,
+      "utilization": 27.04829352208138,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "n9vh6fd3x9fymxk9y66r",
+    "date": "2016-11-17T17:00:00.551Z",
+    "power": {
+      "mw": 9611.809816132236,
+      "utilization": 25.293903543722415,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "wp8z66xtpb7t01y4g3nmi",
+    "date": "2016-11-17T18:00:00.551Z",
+    "power": {
+      "mw": 6398.618752163764,
+      "utilization": 16.838248844525108,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "4fxc4q5wzdapm59izfr",
+    "date": "2016-11-17T19:00:00.551Z",
+    "power": {
+      "mw": 13039.407226719097,
+      "utilization": 34.31377804691806,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "vb0l74066avjmqdunmi",
+    "date": "2016-11-17T20:00:00.551Z",
+    "power": {
+      "mw": 4691.378867500189,
+      "utilization": 12.34557142011339,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "jx7f2pm5chczccq8h0k9",
+    "date": "2016-11-17T21:00:00.551Z",
+    "power": {
+      "mw": 8107.318512199923,
+      "utilization": 21.334767995684064,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "ycfmktugbp6wo1vvaemi",
+    "date": "2016-11-17T22:00:00.551Z",
+    "power": {
+      "mw": 7116.281636329175,
+      "utilization": 18.726810532306615,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "notenhdxwzpb3kkv5cdi",
+    "date": "2016-11-17T23:00:00.551Z",
+    "power": {
+      "mw": 10173.028155625527,
+      "utilization": 26.770774478297724,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "zizx677r6yesj6f20529",
+    "date": "2016-11-18T00:00:00.551Z",
+    "power": {
+      "mw": 4908.802183272265,
+      "utilization": 12.917730512157117,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "znwh8njjx8cmftv86w29",
+    "date": "2016-11-18T01:00:00.551Z",
+    "power": {
+      "mw": 5975.5393404155975,
+      "utilization": 15.724896620874981,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "bg3dhepo9tydop5sif6r",
+    "date": "2016-11-18T02:00:00.551Z",
+    "power": {
+      "mw": 7219.973707033781,
+      "utilization": 18.999680812183474,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "mt0459w1pqvhc717cik9",
+    "date": "2016-11-18T03:00:00.551Z",
+    "power": {
+      "mw": 6022.2615049516635,
+      "utilization": 15.847848067661381,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "u5ifv8olvw8ngra0885mi",
+    "date": "2016-11-18T04:00:00.551Z",
+    "power": {
+      "mw": 7389.485591021332,
+      "utilization": 19.445758847966033,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "udsxp2n018h8397c4bo6r",
+    "date": "2016-11-18T05:00:00.551Z",
+    "power": {
+      "mw": 4698.0617539847835,
+      "utilization": 12.363157732095061,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "zfpxsa61wg2h3kn019k9",
+    "date": "2016-11-18T06:00:00.551Z",
+    "power": {
+      "mw": 5861.115987532566,
+      "utilization": 15.423786496316012,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "eqy8kcku0n3ydox647vi",
+    "date": "2016-11-18T07:00:00.551Z",
+    "power": {
+      "mw": 10815.024265850978,
+      "utilization": 28.460215696769723,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "o66pv53asaeg4jhe61or",
+    "date": "2016-11-18T08:00:00.551Z",
+    "power": {
+      "mw": 9162.85303785913,
+      "utilization": 24.112453883130826,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "zejzlokqueuph73w61or",
+    "date": "2016-11-18T09:00:00.551Z",
+    "power": {
+      "mw": 4970.450747907862,
+      "utilization": 13.079961442370132,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "0kd317qk3t1a7iqtcsor",
+    "date": "2016-11-18T10:00:00.551Z",
+    "power": {
+      "mw": 6803.805364877934,
+      "utilization": 17.90451537447648,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "v2wgre4bje7sdlfp0t3xr",
+    "date": "2016-11-18T11:00:00.551Z",
+    "power": {
+      "mw": 11192.940269360293,
+      "utilization": 29.45471840991643,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "fkke5ctlhv1p9djnstt9",
+    "date": "2016-11-18T12:00:00.551Z",
+    "power": {
+      "mw": 5960.599637836416,
+      "utilization": 15.685582131383576,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "p49zm0juiafg8t2tvs4i",
+    "date": "2016-11-18T13:00:00.551Z",
+    "power": {
+      "mw": 10180.765973773417,
+      "utilization": 26.791136889707815,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "v8lklg0358ebdwjyvi",
+    "date": "2016-11-18T14:00:00.551Z",
+    "power": {
+      "mw": 5761.74634472167,
+      "utilization": 15.16229087701917,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "lvvlwjyqjnl0amaq0k9",
+    "date": "2016-11-18T15:00:00.551Z",
+    "power": {
+      "mw": 9697.664892908027,
+      "utilization": 25.519834983508183,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "hxe74tvu8ruhokihpvi",
+    "date": "2016-11-18T16:00:00.551Z",
+    "power": {
+      "mw": 7455.167381467839,
+      "utilization": 19.618603390660226,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "ukod8tr5ct82ic8up7gb9",
+    "date": "2016-11-18T17:00:00.551Z",
+    "power": {
+      "mw": 6197.530961263457,
+      "utilization": 16.30907741020107,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "54jyqoi7hw4t5canhfr",
+    "date": "2016-11-18T18:00:00.551Z",
+    "power": {
+      "mw": 10032.144915909124,
+      "utilization": 26.400033988787317,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "muhkaqziu7feivd3g14i",
+    "date": "2016-11-18T19:00:00.551Z",
+    "power": {
+      "mw": 11950.52574858008,
+      "utilization": 31.44833817602421,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "rpc84t5zhuoebj2d42t9",
+    "date": "2016-11-18T20:00:00.551Z",
+    "power": {
+      "mw": 4339.010522736344,
+      "utilization": 11.41829850327323,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "m5413sceikk5nib2o6r",
+    "date": "2016-11-18T21:00:00.551Z",
+    "power": {
+      "mw": 4340.8555051142275,
+      "utilization": 11.423153656173543,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "jr8for5i7zlf5sfe9izfr",
+    "date": "2016-11-18T22:00:00.551Z",
+    "power": {
+      "mw": 11755.855235606125,
+      "utilization": 30.936054092988577,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "3ygfqmia0r9foaifwdn29",
+    "date": "2016-11-18T23:00:00.551Z",
+    "power": {
+      "mw": 9352.034524320477,
+      "utilization": 24.610293349615077,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "un6csksif8aeulj1c3di",
+    "date": "2016-11-19T00:00:00.551Z",
+    "power": {
+      "mw": 4036.7470941261,
+      "utilization": 10.622878894030604,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "a79b256h27eauuzbyb9",
+    "date": "2016-11-19T01:00:00.551Z",
+    "power": {
+      "mw": 5373.019255188412,
+      "utilization": 14.139338311833823,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "sp6tfrdnarkbm3tk2o6r",
+    "date": "2016-11-19T02:00:00.551Z",
+    "power": {
+      "mw": 10355.89573108943,
+      "utilization": 27.25199860814839,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "elfrfwc8cqpeybtaf9a4i",
+    "date": "2016-11-19T03:00:00.551Z",
+    "power": {
+      "mw": 12703.159166589227,
+      "utilization": 33.428926373572,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "zqkl9b5zc3w79c4eipb9",
+    "date": "2016-11-19T04:00:00.551Z",
+    "power": {
+      "mw": 11502.427521118809,
+      "utilization": 30.269147829946473,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "vpj5mw4blmxea3t2zkt9",
+    "date": "2016-11-19T05:00:00.551Z",
+    "power": {
+      "mw": 12038.440737042592,
+      "utilization": 31.67969036471255,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "ft6bjf45dug3leeqxgvi",
+    "date": "2016-11-19T06:00:00.551Z",
+    "power": {
+      "mw": 7201.948864129983,
+      "utilization": 18.952247639188915,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "vxgv1pf7yqs605ecow29",
+    "date": "2016-11-19T07:00:00.551Z",
+    "power": {
+      "mw": 7819.581483667398,
+      "utilization": 20.577575252081942,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "ei1pbthhsm6t21emi",
+    "date": "2016-11-19T08:00:00.551Z",
+    "power": {
+      "mw": 8866.505625591835,
+      "utilization": 23.332602533103078,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "ogj84yztgurr8ft4vx6r",
+    "date": "2016-11-19T09:00:00.551Z",
+    "power": {
+      "mw": 7170.86552441734,
+      "utilization": 18.870450453065985,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "sq6gemsj8btdkooq4obt9",
+    "date": "2016-11-19T10:00:00.551Z",
+    "power": {
+      "mw": 6768.892369447563,
+      "utilization": 17.812640279595172,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "pw35w07o8gs3wn4s4i",
+    "date": "2016-11-19T11:00:00.551Z",
+    "power": {
+      "mw": 11594.421267604635,
+      "utilization": 30.511233451151,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "s46htx5aq6a15liejyvi",
+    "date": "2016-11-19T12:00:00.551Z",
+    "power": {
+      "mw": 8631.045164529256,
+      "utilization": 22.712977893788914,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "u05gv0drc5x41m1n8w7b9",
+    "date": "2016-11-19T13:00:00.551Z",
+    "power": {
+      "mw": 10485.178110074912,
+      "utilization": 27.592210918474528,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "euvaekm7oofgcbmd9529",
+    "date": "2016-11-19T14:00:00.551Z",
+    "power": {
+      "mw": 5286.627597927459,
+      "utilization": 13.911994836719145,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "3k3fabkmfrk1fsjpgmn29",
+    "date": "2016-11-19T15:00:00.551Z",
+    "power": {
+      "mw": 12029.886389592006,
+      "utilization": 31.65717922025238,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "bjbbw9d508b1qq6w29",
+    "date": "2016-11-19T16:00:00.551Z",
+    "power": {
+      "mw": 4830.895056984871,
+      "utilization": 12.71271445634892,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "nbeyz9efwd8vlkd7mygb9",
+    "date": "2016-11-19T17:00:00.551Z",
+    "power": {
+      "mw": 9175.807284033577,
+      "utilization": 24.1465435560942,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "j6zozpuax0h2tricnmi",
+    "date": "2016-11-19T18:00:00.551Z",
+    "power": {
+      "mw": 11260.104346468313,
+      "utilization": 29.63146365565799,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "q1qoytbs9zxnts5uerk9",
+    "date": "2016-11-19T19:00:00.551Z",
+    "power": {
+      "mw": 8876.891208616962,
+      "utilization": 23.35993265514128,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "gi2idhvmt92li72v5cdi",
+    "date": "2016-11-19T20:00:00.551Z",
+    "power": {
+      "mw": 5756.031377878129,
+      "utilization": 15.14725168847286,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "b4bzebjsj6jylplow29",
+    "date": "2016-11-19T21:00:00.551Z",
+    "power": {
+      "mw": 5406.302720452014,
+      "utilization": 14.226925225857592,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "6a2k08vx6mln9qa4te29",
+    "date": "2016-11-19T22:00:00.551Z",
+    "power": {
+      "mw": 12367.125893599248,
+      "utilization": 32.54463992210431,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "y1l0f8of8r02nb2ihpvi",
+    "date": "2016-11-19T23:00:00.551Z",
+    "power": {
+      "mw": 4304.739406468473,
+      "utilization": 11.328112541857273,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "01wxat3hrazrki2ro1or",
+    "date": "2016-11-20T00:00:00.551Z",
+    "power": {
+      "mw": 5549.852910873088,
+      "utilization": 14.604683914351359,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "d2zyjquypcoqdioqlrf6r",
+    "date": "2016-11-20T01:00:00.551Z",
+    "power": {
+      "mw": 8578.406840210411,
+      "utilization": 22.574457810319366,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "n7yq2sqfkrqo3dsoflxr",
+    "date": "2016-11-20T02:00:00.551Z",
+    "power": {
+      "mw": 11791.487745825043,
+      "utilization": 31.02982262292613,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "0a6fvpfzt8vi4866flxr",
+    "date": "2016-11-20T03:00:00.551Z",
+    "power": {
+      "mw": 4003.7858635929433,
+      "utilization": 10.536139954982023,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "8gmrdb4k4id28ajrlik9",
+    "date": "2016-11-20T04:00:00.551Z",
+    "power": {
+      "mw": 6921.799303487008,
+      "utilization": 18.215021653628263,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "odpz0xewcup5sg0ou5wmi",
+    "date": "2016-11-20T05:00:00.551Z",
+    "power": {
+      "mw": 9655.933002611362,
+      "utilization": 25.410015664560632,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "2a60qr9pyeehlw1rwwmi",
+    "date": "2016-11-20T06:00:00.551Z",
+    "power": {
+      "mw": 4157.525153711797,
+      "utilization": 10.940711710929587,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "8c5do70w8dibtohfflxr",
+    "date": "2016-11-20T07:00:00.551Z",
+    "power": {
+      "mw": 7850.145601118563,
+      "utilization": 20.65800608181093,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "bb6z93ab1vjvxyiizfr",
+    "date": "2016-11-20T08:00:00.551Z",
+    "power": {
+      "mw": 10594.128139455843,
+      "utilization": 27.87891774965025,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "vnxdpgns4zim06kcsor",
+    "date": "2016-11-20T09:00:00.551Z",
+    "power": {
+      "mw": 9937.05476266367,
+      "utilization": 26.149800035956556,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "z9d3ews2uxq5ys3jtt9",
+    "date": "2016-11-20T10:00:00.551Z",
+    "power": {
+      "mw": 5562.193595889267,
+      "utilization": 14.637158973932625,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "zvr0eihf3sgxa5szia4i",
+    "date": "2016-11-20T11:00:00.551Z",
+    "power": {
+      "mw": 4199.388834852969,
+      "utilization": 11.050877843325665,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "8z9paxwemm5621kbj4i",
+    "date": "2016-11-20T12:00:00.551Z",
+    "power": {
+      "mw": 9771.815305601951,
+      "utilization": 25.71496508099091,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "iao190upz2rjx4bfn7b9",
+    "date": "2016-11-20T13:00:00.551Z",
+    "power": {
+      "mw": 13020.232480319168,
+      "utilization": 34.263318851907655,
+      "capacity": 38000.5
+    }
+  },
+  {
+    "_id": "g8v4cxrlbkxg1bz3q5mi",
+    "date": "2016-11-20T14:00:00.551Z",
+    "power": {
+      "mw": 5089.574836907631,
+      "utilization": 13.393441762365313,
+      "capacity": 38000.5
+    }
+  }
+]

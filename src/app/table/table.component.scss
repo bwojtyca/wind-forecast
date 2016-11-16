@@ -1,0 +1,7 @@
+.chart-cell {
+  width: 40px;
+  padding: 4px 4px 4px .75rem;
+  &+td {
+    padding-left: 4px;
+  }
+}
