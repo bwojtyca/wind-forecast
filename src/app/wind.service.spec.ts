@@ -1,6 +1,6 @@
 /* tslint:disable:no-unused-variable */
 
-import {TestBed, async, inject} from '@angular/core/testing';
+import {TestBed, inject} from '@angular/core/testing';
 import {WindService} from './wind.service';
 import {BaseRequestOptions, ResponseOptions, Response, Http, RequestMethod} from "@angular/http";
 import {MockBackend, MockConnection} from "@angular/http/testing";
@@ -11,7 +11,8 @@ describe('WindService', () => {
 
   beforeEach(() => {
     TestBed.configureTestingModule({
-      providers: [WindService,
+      providers: [
+        WindService,
         MockBackend,
         BaseRequestOptions,
         {
