@@ -15,7 +15,6 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit() {
-    // this.forecast = this._forecast.getRandomForecast(100);
     this._forecast.getForecast().subscribe(
       forecast => this.forecast = forecast,
       error => this.errorMessage = error

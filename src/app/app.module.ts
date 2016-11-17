@@ -5,6 +5,7 @@ import {HttpModule, JsonpModule} from '@angular/http';
 
 // external module for charts
 import {nvD3} from "ng2-nvd3";
+declare let d3;
 
 // main service
 import {WindService} from "./wind.service";

@@ -20,17 +20,18 @@ export class LineChartService {
     }];
 
     forecast.forEach((entry, i) => {
-      data[0].values.push({
-        i: i,
-        v: entry.power.mw,
-        d: entry.date
-      });
-      data[1].values.push({
-        i: i,
-        v: entry.power.capacity,
-        d: entry.date
-      });
-    })﻿
+        data[0].values.push({
+          i: i,
+          v: entry.power.mw,
+          d: entry.date
+        });
+        data[1].values.push({
+          i: i,
+          v: entry.power.capacity,
+          d: entry.date
+        });
+      }
+    )﻿
 
     return data;
   };
